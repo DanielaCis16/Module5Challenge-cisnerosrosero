@@ -1,0 +1,15 @@
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/bin/Debug/net8.0/Module5Challenge
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/bin/Debug/net8.0/Module5Challenge.deps.json
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/bin/Debug/net8.0/Module5Challenge.runtimeconfig.json
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/bin/Debug/net8.0/Module5Challenge.dll
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/bin/Debug/net8.0/Module5Challenge.pdb
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/Module5Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/Module5Challenge.AssemblyInfoInputs.cache
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/Module5Challenge.AssemblyInfo.cs
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/Module5Challenge.csproj.CoreCompileInputs.cache
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/Module5Challenge.sourcelink.json
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/Module5Challenge.dll
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/refint/Module5Challenge.dll
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/Module5Challenge.pdb
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/Module5Challenge.genruntimeconfig.cache
+/workspaces/Module5Challenge-cisnerosrosero/Module5Challenge/obj/Debug/net8.0/ref/Module5Challenge.dll
